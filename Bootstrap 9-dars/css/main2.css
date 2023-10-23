@@ -1,0 +1,6 @@
+.hover{
+    background: gray;
+}
+.hover1:hover:active{
+    background: black;
+}
